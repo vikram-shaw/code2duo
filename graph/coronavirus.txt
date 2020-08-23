@@ -1,0 +1,9 @@
+There are N cities numbered 1 through N. virtex 1 is the root of the tree. Initially, there are some corona virus in its virtices. Every hour the virus split into multiple parts and move to it's neighbour children(suppose number of virus at vertex 1 is 3 and children of 1 are 2, 3 and 4. then the children will have 3-3 extra viruses in it). You need to determine the number of virus present after Infinite time.
+
+INPUT:
+First line N denoting the number of cities
+Next N-1 line x and y denoting the city connected to each other
+The next line contains N space-separated integers v1, v2, v3,....vn are the number of virus at initial stage.
+
+OUTPUT:
+N space-separated integers v1, v2, v3,...vn are the number of virus after Infinite time

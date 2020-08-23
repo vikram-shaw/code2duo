@@ -1,0 +1,8 @@
+you have 100 rupees of coin and you want to change it with minimum number of coins with denomination 1,2 and 5.
+
+INPUT:
+T denoting the number of test cases.(1<=T<=20000)
+N denoting the rupees you have(0<=N<=500000)
+
+OUTPUT:
+x y z (x: number of coin 1, y: number of coin 2, z: number of coin 5)

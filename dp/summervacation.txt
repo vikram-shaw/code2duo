@@ -1,0 +1,14 @@
+You have n days vacation and 4 different works but you can do only one of them. You can not do the same work in the two consecutive days. Everyday the points of doing the work may varie. You need earn the maximum points.
+
+INPUT:
+N (denoting the number days)
+a1 b1 c1 d1 (points on day 1)
+a2 b2 c2 d2 (points on day 2)
+a3 b3 c3 d3 (points on day 3)
+.
+.
+.
+aN bN cN dN (points on day N)
+
+OUTPUT:
+result (maximum point)
